@@ -1,0 +1,10 @@
+{
+  "name": "时间规划与分析",
+  "short_name": "时间规划",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#4f6ef7",
+  "icons": [{ "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }]
+}
